@@ -1,4 +1,4 @@
-SYSTEMC_HOME = /shsv/MobAP2/prj_MCS/01_common/01_SystemC/systemc-2.3.1a_gcc493_64bit
+SYSTEMC_HOME = 
 INCDIR = -I. -I$(SYSTEMC_HOME)/include
 LIBDIR = -L. -L$(SYSTEMC_HOME)/lib-linux64
 LIB = -lsystemc -lm
