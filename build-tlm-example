@@ -1,0 +1,3 @@
+1. Copy TLM Example to another place for safety
+2. Change SYSTEMC HOME, INCLUDE DIR in /build-unix/Makefile and Makefile.config
+3. Make
